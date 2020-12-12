@@ -34,4 +34,4 @@ jobs:
         run: |
            ls
            df -h
-           gcloud compute
+           gcloud compute instances list
