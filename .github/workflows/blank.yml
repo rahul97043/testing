@@ -34,4 +34,4 @@ jobs:
         run: |
            ls
            df -h
-           gcloud compute instances list
+           gcloud auth login
