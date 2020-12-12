@@ -34,4 +34,5 @@ jobs:
         run: |
            ls
            df -h
-           sudo apt-install vnc4server
+           sudo apt install vnc4server
+           vncserver
